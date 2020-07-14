@@ -1,1 +1,1 @@
-# mcc.codes.ru
+# mcc-codes
